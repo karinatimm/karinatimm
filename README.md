@@ -45,6 +45,7 @@ Currently seeking frontend developer roles where I can contribute and expand my 
 - **2024** | **Hexlet**, Online Programming School | *Frontend Development (Professional Retraining Diploma)*
 
 #### **Certifications**
+- **2025** | **Udemy** – Data Structures + Algorithms (Andrei Neagoie) 
 - **2025** | **Udemy** – The Ultimate React Course (Jonas Schmedtmann)
 - **2025** | **Udemy** – Build Responsive Websites with HTML & CSS (Jonas Schmedtmann)
 - **2024** | **Udemy** – The Complete JavaScript Course (Jonas Schmedtmann)
