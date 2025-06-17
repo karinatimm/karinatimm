@@ -17,7 +17,7 @@ Currently seeking frontend developer roles where I can contribute and expand my 
 * 📍 Based in Munich, Germany
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartimm.webdev@gmail.com)
 * [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kartimmm)
-* 💻 Currently learning: Next.js, PostgreSQL and German :)
+* 💻 Currently learning: PostgreSQL, practical AI for business, and German 🇩🇪
 * 🎉 When I’m not coding, I’m probably out partying with friends 💃, hiking 🏔️, or getting my step aerobics in 👯‍♀️. Always up for a good time and good company! :)
 * 🌱 I’m open-minded and easy-going, always up for new ideas, love working with others to create something awesome. 🫶
   
