@@ -4,12 +4,10 @@ Hi 👋 My name is Karina Timofeeva
 ## Junior Frontend Developer
 ----------------------------
 
-I’m a Frontend Developer with over 2 years of focused training in **JavaScript**, **React**, **HTML** & **CSS**, **TypeScript**. While I don’t have practical work experience yet, I’ve gained valuable skills through educational projects, including state management, API integration, performance optimization, and responsive design.
-
-I’m passionate about building web applications that solve real-world problems. Currently, I’m focused on expanding my knowledge in Next.js and other modern technologies. I’m eager to bring my skills into a professional environment where I can continue learning, growing, and contributing to meaningful projects.
+I’m a Frontend Developer with over 2 years of focused training in **JavaScript**, **React**, **HTML**/**CSS**, **TypeScript**. While I don’t have commercial work experience yet, I’ve built a solid foundation through hands-on projects, including state management, API integration, performance optimization, and responsive design.
 
 ### 🌟 **Open to Work**  
-Currently seeking frontend developer roles where I can contribute and expand my expertise.
+Currently seeking junior frontend or internship roles where I can contribute, grow, and help achieve the company’s goals.
 
 ---
 
@@ -18,7 +16,7 @@ Currently seeking frontend developer roles where I can contribute and expand my 
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartimm.webdev@gmail.com)
 * [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kartimmm)
 * 💻 Currently learning: PostgreSQL, practical AI for business, and German 🇩🇪
-* 🎉 When I’m not coding, I’m probably out partying with friends 💃, hiking 🏔️, or getting my step aerobics in 👯‍♀️. Always up for a good time and good company! :)
+* 🎉 When I’m not coding, I’m probably out with friends 💃, hiking 🏔️, cycling 🚴, or getting my step aerobics in 👯‍♀️. Always up for a good time and good company! :)
 * 🌱 I’m open-minded and easy-going, always up for new ideas, love working with others to create something awesome. 🫶
   
  ---
@@ -35,19 +33,23 @@ Currently seeking frontend developer roles where I can contribute and expand my 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### **Tools**  
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white&label=LangChain) ![](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ### **Education & Certifications**
 
 #### **Education**
-- **2024** | **Hexlet**, Online Programming School | *Frontend Development (Professional Retraining Diploma)*
+- **2024** | **Hexlet, Online Programming School** | *Frontend Development (Professional Retraining Diploma)*
+- **2017** | **Gubkin Russian State University of Oil and Gas** | *Master’s Degree in Geological Modeling*
+- **2015** | **Gubkin Russian State University of Oil and Gas** | *Specialist Degree in Petroleum Geology* 
 
 #### **Certifications**
+- **2025** | **Udemy** – React Testing with Jest/Vitest - Typescript
+- **2025** | **Udemy** – React & Typescript
 - **2025** | **Udemy** – Data Structures + Algorithms (Andrei Neagoie) 
 - **2025** | **Udemy** – The Ultimate React Course (Jonas Schmedtmann)
-- **2025** | **Udemy** – Build Responsive Websites with HTML & CSS (Jonas Schmedtmann)
+- **2024** | **Udemy** – Build Responsive Websites with HTML & CSS (Jonas Schmedtmann)
 - **2024** | **Udemy** – The Complete JavaScript Course (Jonas Schmedtmann)
 - **2023** | **HTML Academy** – HTML & CSS Course
 ---
