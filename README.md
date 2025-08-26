@@ -4,7 +4,9 @@ Hi 👋 My name is Karina Timofeeva
 ## Junior Frontend Developer
 ----------------------------
 
-I’m a Frontend Developer with over 2 years of focused training in **JavaScript**, **React**, **HTML**/**CSS**, **TypeScript**. I’ve built a solid foundation through hands-on projects, including state management, API integration, performance optimization, and responsive design.
+I’m a Frontend Developer with over 2 years of focused training in **JavaScript**, **React**, **HTML**/**CSS**, **TypeScript**. I’ve built a solid foundation through hands-on projects, including state management, API integration, performance optimization, and responsive design. 
+
+💼 Freelance experience: fixed UI bugs, improved layouts, enhanced adaptive design
 
 ### 🌟 **Open to Work**  
 Currently seeking junior frontend or internship roles where I can contribute, grow, and help achieve the company’s goals.
@@ -15,9 +17,9 @@ Currently seeking junior frontend or internship roles where I can contribute, gr
 * 📍 Based in Munich, Germany
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartimm.webdev@gmail.com)
 * [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kartimmm)
-* 💻 Currently learning: PostgreSQL, practical AI for business, and German 🇩🇪
-* 🎉 When I’m not coding, I’m probably out with friends 💃, hiking 🏔️, cycling 🚴, or getting my step aerobics in 👯‍♀️. Always up for a good time and good company! :)
-* 🌱 I’m open-minded and easy-going, always up for new ideas, love working with others to create something awesome. 🫶
+* 💻 Currently learning: PostgreSQL, practical AI for business, and improving German 🇩🇪
+* 🎉 Interests: hanging out with friends 💃, hiking 🏔️, cycling 🚴, step aerobics 👯‍♀️
+* 🌱 Open-minded, collaborative, and always excited to create something awesome with others 🫶
   
  ---
  
