@@ -1,15 +1,12 @@
 Hi 👋 My name is Karina Timofeeva
 ================================================================================================================
 
-## Junior Frontend Developer
+## Frontend Developer
 ----------------------------
 
 I’m a Frontend Developer with over 2 years of focused training in **JavaScript**, **React**, **HTML**/**CSS**, **TypeScript**. I’ve built a solid foundation through hands-on projects, including state management, API integration, performance optimization, and responsive design. 
 
 💼 Freelance experience: fixed UI bugs, improved layouts, enhanced adaptive design
-
-### 🌟 **Open to Work**  
-Currently seeking junior frontend or internship roles where I can contribute, grow, and help achieve the company’s goals.
 
 ---
 
